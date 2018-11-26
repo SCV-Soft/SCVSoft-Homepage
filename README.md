@@ -11,5 +11,5 @@ No
 # Can I use it for non-commercial site?
 NO
 
-# Than why this repo is public?
+# Then why this repo is public?
 Just for fun. Actually, html5, css3 and javascript code can be easily extracted by developer tools.
